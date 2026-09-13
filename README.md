@@ -22,4 +22,4 @@ This project focuses on analyzing sales data and creating interactive visualizat
 
 ## 🎯 Objective
 
-To transform raw sales data into meaningful and interactive Tableau dashboards that
+To transform raw sales data into meaningful and interactive Tableau dashboards that help understand business performance and identify important sales trends.
