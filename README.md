@@ -4,6 +4,12 @@
 
 This project focuses on analyzing sales data and creating interactive visualizations and dashboards using **Tableau**. The analysis provides insights into sales performance, country-wise sales, and salesperson performance.
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a5d83ca-97a9-4d72-aa55-a67499148a2b" alt="Tableau Sales Analysis Dashboard" width="850">
+</p>
+
 ## 📊 Dashboards & Visualizations
 
 * **Sales by Country** – Visualizes and compares sales performance across different countries.
@@ -13,7 +19,7 @@ This project focuses on analyzing sales data and creating interactive visualizat
 
 ## 🛠️ Tools & Skills
 
-* Tableau
+* **Tableau**
 * Data Visualization
 * Data Analysis
 * Dashboard Creation
@@ -23,7 +29,3 @@ This project focuses on analyzing sales data and creating interactive visualizat
 ## 🎯 Objective
 
 To transform raw sales data into meaningful and interactive Tableau dashboards that help understand business performance and identify important sales trends.
-
-<img width="1280" height="832" alt="TABLEAU" src="https://github.com/user-attachments/assets/4a5d83ca-97a9-4d72-aa55-a67499148a2b" />
-
-
